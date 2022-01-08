@@ -1,4 +1,5 @@
-<h1>Everything is OK</h1>
+<h1><img src="https://github.com/emreabaci/everything-is-ok/blob/master/public/images/cat.png?raw=true" width="auto" height="80px" alt="meow">Everything is OK</h1>
+
 <p>Fastly create static websites with this base project</p>
 
 * Add your **images** to **public/images**
